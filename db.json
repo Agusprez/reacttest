@@ -32,28 +32,28 @@
             "sku": "005",
             "nombre": "Nightwing - Batman 2",
             "descripcion": "Estatuilla de Nightwing de 30cm de alto",
-            "precio": "8499.99"
+            "precio": "8499.99",
             "imagen":"https://lucasismael.com.ar/wp-content/uploads/2020/04/20200404-_DSC7458.jpg"
         },
         {
             "sku": "006",
             "nombre": "Archangel Arkham Origins",
             "descripcion": "Figura de acción Archangel Arkham Origins",
-            "precio": "2499"
+            "precio": "2499",
             "imagen":"https://lucasismael.com.ar/wp-content/uploads/2020/04/20200404-_DSC7464.jpg"
         },
         {
             "sku": "007",
             "nombre": "Clayface Arkham City",
             "descripcion": "Figura de acción Clayface Arkham City",
-            "precio": "2699.75"
+            "precio": "2699.75",
             "imagen":"https://lucasismael.com.ar/wp-content/uploads/2020/04/20200404-_DSC7450.jpg"
         },
         {
             "sku": "008",
             "nombre": "T-1000",
             "descripcion": "Figura de acción de Terminator 2",
-            "precio": "3599.99"
+            "precio": "3599.99",
             "imagen":"https://lucasismael.com.ar/wp-content/uploads/2020/04/20180120-_DSC0127.jpg"
         }
     ]
