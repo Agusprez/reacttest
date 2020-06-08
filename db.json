@@ -12,7 +12,7 @@
             "nombre": "Batman Arkham Origins",
             "descripcion": "Figura de acción Batman Arkham Origins",
             "precio": "2500",
-            "imagen":"https://lucasismael.com.ar/wp-content/uploads/2020/04/20200404-_DSC7450.jpg"
+            "imagen":"https://lucasismael.com.ar/wp-content/uploads/2020/06/IMG_20171002_111642_561-scaled.jpg"
         },
         {
             "sku": "003",
@@ -26,35 +26,35 @@
             "nombre": "T-800",
             "descripcion": "Figura de acción de Terminator 1",
             "precio": "1500.93",
-            "imagen":"https://lucasismael.com.ar/wp-content/uploads/2020/04/20180120-_DSC0127.jpg"
+            "imagen":"https://lucasismael.com.ar/wp-content/uploads/2020/06/LRM_EXPORT_20171001_204127-scaled.jpg"
         },
         {
             "sku": "005",
-            "nombre": "Nightwing - Batman 2",
-            "descripcion": "Estatuilla de Nightwing de 30cm de alto",
-            "precio": "8499.99",
-            "imagen":"https://lucasismael.com.ar/wp-content/uploads/2020/04/20200404-_DSC7458.jpg"
+            "nombre": "Caballero Dorado",
+            "descripcion": "Figurilla para juegos de rol",
+            "precio": "1499.99",
+            "imagen":"https://lucasismael.com.ar/wp-content/uploads/2020/06/IMG-20170611-WA0041.jpg"
         },
         {
             "sku": "006",
-            "nombre": "Archangel Arkham Origins",
-            "descripcion": "Figura de acción Archangel Arkham Origins",
+            "nombre": "Gokú SSJ1",
+            "descripcion": "Estatuilla Goku SSJ1, saga Namek",
             "precio": "2499",
-            "imagen":"https://lucasismael.com.ar/wp-content/uploads/2020/04/20200404-_DSC7464.jpg"
+            "imagen":"https://lucasismael.com.ar/wp-content/uploads/2020/06/10122017-_DSC0046-scaled.jpg"
         },
         {
             "sku": "007",
-            "nombre": "Clayface Arkham City",
-            "descripcion": "Figura de acción Clayface Arkham City",
-            "precio": "2699.75",
-            "imagen":"https://lucasismael.com.ar/wp-content/uploads/2020/04/20200404-_DSC7450.jpg"
+            "nombre": "Batman Arkham Knight",
+            "descripcion": "Estatuilla Batman Arkham Knight",
+            "precio": "15699,75",
+            "imagen":"https://lucasismael.com.ar/wp-content/uploads/2020/06/10122017-_DSC0041-scaled.jpg"
         },
         {
             "sku": "008",
-            "nombre": "T-1000",
-            "descripcion": "Figura de acción de Terminator 2",
-            "precio": "3599.99",
-            "imagen":"https://lucasismael.com.ar/wp-content/uploads/2020/04/20180120-_DSC0127.jpg"
+            "nombre": "Predator Rebelde",
+            "descripcion": "Busto Predator Alien vs Predator",
+            "precio": "12599.99",
+            "imagen":"https://lucasismael.com.ar/wp-content/uploads/2020/06/10122017-_DSC0060-scaled.jpg"
         }
     ]
 }
