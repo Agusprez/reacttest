@@ -1,52 +1,52 @@
 {
-    "productos":[
-    {
-        "sku": "001",
-        "nombre": "Batman -Matias Izquierdos",
-        "descripcion": "Estatuilla de Batman de 30cm de alto, en arcilla epoxi, personalizada y única en el mundo",
-        "precio": "8500.00"
-    },
-    {
-        "sku": "002",
-        "nombre": "Batman Arkham Origins",
-        "descripcion": "Figura de acción Batman Arkham Origins",
-        "precio": "2500.00"
-    },
-    {
-        "sku": "003",
-        "nombre": "Joker Arkham Origins",
-        "descripcion": "Figura de acción Batman Arkham Origins",
-        "precio": "2500.00"
-    },
-    {
-        "SKU": "004",
-        "nombre": "T-800",
-        "descripcion": "Figura de acción de Terminator 1",
-        "precio": "1500.00"
-    },
-    {
-        "sku": "005",
-        "nombre": "Batman -Matias Izquierdos",
-        "descripcion": "Estatuilla de Batman de 30cm de alto, en arcilla epoxi, personalizada y única en el mundo",
-        "precio": "8500.00"
-    },
-    {
-        "sku": "006",
-        "nombre": "Batman Arkham Origins",
-        "descripcion": "Figura de acción Batman Arkham Origins",
-        "precio": "2500.00"
-    },
-    {
-        "sku": "007",
-        "nombre": "Joker Arkham Origins",
-        "descripcion": "Figura de acción Batman Arkham Origins",
-        "precio": "2500.00"
-    },
-    {
-        "sku": "008",
-        "nombre": "T-800",
-        "descripcion": "Figura de acción de Terminator 1",
-        "precio": "1500.00"
-    }
+    "productos": [
+        {
+            "sku": "001",
+            "nombre": "Batman -Matias Izquierdos",
+            "descripcion": "Estatuilla de Batman de 30cm de alto, en arcilla epoxi, personalizada y única en el mundo",
+            "precio": "8500.00"
+        },
+        {
+            "sku": "002",
+            "nombre": "Batman Arkham Origins",
+            "descripcion": "Figura de acción Batman Arkham Origins",
+            "precio": "2500.00"
+        },
+        {
+            "sku": "003",
+            "nombre": "Joker Arkham Origins",
+            "descripcion": "Figura de acción Batman Arkham Origins",
+            "precio": "2500.00"
+        },
+        {
+            "SKU": "004",
+            "nombre": "T-800",
+            "descripcion": "Figura de acción de Terminator 1",
+            "precio": "1500.00"
+        },
+        {
+            "sku": "005",
+            "nombre": "Batman -Matias Izquierdos",
+            "descripcion": "Estatuilla de Batman de 30cm de alto, en arcilla epoxi, personalizada y única en el mundo",
+            "precio": "8500.00"
+        },
+        {
+            "sku": "006",
+            "nombre": "Batman Arkham Origins",
+            "descripcion": "Figura de acción Batman Arkham Origins",
+            "precio": "2500.00"
+        },
+        {
+            "sku": "007",
+            "nombre": "Joker Arkham Origins",
+            "descripcion": "Figura de acción Batman Arkham Origins",
+            "precio": "2500.00"
+        },
+        {
+            "sku": "008",
+            "nombre": "T-800",
+            "descripcion": "Figura de acción de Terminator 1",
+            "precio": "1500.00"
+        }
     ]
 }
