@@ -4,49 +4,49 @@
             "sku": "001",
             "nombre": "Batman -Matias Izquierdos",
             "descripcion": "Estatuilla de Batman de 30cm de alto, en arcilla epoxi, personalizada y única en el mundo",
-            "precio": "8500.00"
+            "precio": "8500"
         },
         {
             "sku": "002",
             "nombre": "Batman Arkham Origins",
             "descripcion": "Figura de acción Batman Arkham Origins",
-            "precio": "2500.00"
+            "precio": "2500"
         },
         {
             "sku": "003",
             "nombre": "Joker Arkham Origins",
             "descripcion": "Figura de acción Batman Arkham Origins",
-            "precio": "2500.00"
+            "precio": "2499"
         },
         {
             "SKU": "004",
             "nombre": "T-800",
             "descripcion": "Figura de acción de Terminator 1",
-            "precio": "1500.00"
+            "precio": "1500.93"
         },
         {
             "sku": "005",
-            "nombre": "Batman -Matias Izquierdos",
+            "nombre": "Nightwing - Batman 2",
             "descripcion": "Estatuilla de Batman de 30cm de alto, en arcilla epoxi, personalizada y única en el mundo",
-            "precio": "8500.00"
+            "precio": "8499.99"
         },
         {
             "sku": "006",
-            "nombre": "Batman Arkham Origins",
+            "nombre": "Archangel Arkham Origins",
             "descripcion": "Figura de acción Batman Arkham Origins",
-            "precio": "2500.00"
+            "precio": "2499"
         },
         {
             "sku": "007",
-            "nombre": "Joker Arkham Origins",
+            "nombre": "Clayface Arkham City",
             "descripcion": "Figura de acción Batman Arkham Origins",
-            "precio": "2500.00"
+            "precio": "2699.75"
         },
         {
             "sku": "008",
-            "nombre": "T-800",
+            "nombre": "T-1000",
             "descripcion": "Figura de acción de Terminator 1",
-            "precio": "1500.00"
+            "precio": "3599.99"
         }
     ]
 }
