@@ -1,4 +1,5 @@
-"productos":[
+{
+    "productos":[
     {
         "SKU": "001",
         "nombre": "Batman -Matias Izquierdos",
@@ -48,3 +49,4 @@
         "Precio": "1500.00"
     }
     ]
+}
