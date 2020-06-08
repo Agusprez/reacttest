@@ -3,7 +3,7 @@
         {
             "sku": "001",
             "nombre": "Batman -Matias Izquierdos",
-            "descripcion": "Estatuilla de Batman de 30cm de alto, en arcilla epoxi, personalizada y única en el mundo",
+            "descripcion": "Estatuilla de Batman de 30cm de alto",
             "precio": "8500"
         },
         {
@@ -15,7 +15,7 @@
         {
             "sku": "003",
             "nombre": "Joker Arkham Origins",
-            "descripcion": "Figura de acción Batman Arkham Origins",
+            "descripcion": "Figura de acción Joker Arkham Origins",
             "precio": "2499"
         },
         {
@@ -27,25 +27,25 @@
         {
             "sku": "005",
             "nombre": "Nightwing - Batman 2",
-            "descripcion": "Estatuilla de Batman de 30cm de alto, en arcilla epoxi, personalizada y única en el mundo",
+            "descripcion": "Estatuilla de Nightwing de 30cm de alto",
             "precio": "8499.99"
         },
         {
             "sku": "006",
             "nombre": "Archangel Arkham Origins",
-            "descripcion": "Figura de acción Batman Arkham Origins",
+            "descripcion": "Figura de acción Archangel Arkham Origins",
             "precio": "2499"
         },
         {
             "sku": "007",
             "nombre": "Clayface Arkham City",
-            "descripcion": "Figura de acción Batman Arkham Origins",
+            "descripcion": "Figura de acción Clayface Arkham City",
             "precio": "2699.75"
         },
         {
             "sku": "008",
             "nombre": "T-1000",
-            "descripcion": "Figura de acción de Terminator 1",
+            "descripcion": "Figura de acción de Terminator 2",
             "precio": "3599.99"
         }
     ]
